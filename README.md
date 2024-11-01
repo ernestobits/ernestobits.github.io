@@ -7,7 +7,7 @@ $ git submodule add https://github.com/yihui/hugo-xmin.git themes/xmin
 ## Git Commands
 $ git status
 $ git add .
-$ git commit -m "Add first post"
+$ git commit -m "Get ready to publish"
 $ git diff
 
 ## Hugo Commands
@@ -18,9 +18,7 @@ $ hugo
 
 - content/posts/plum.md
 - content/posts/hello-world.md
-
-
-$ hugo new posts/boolean-algebra.md
+- content/posts/boolean-algebra.md
 
 $ tree .
 - public/index.html
