@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>https://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on Ernesto Bits</title>
+    <link>https://ernestobits.github.io/posts/</link>
+    <description>Recent content in Posts on Ernesto Bits</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Nov 2024 12:32:36 -0700</lastBuildDate>
+    <atom:link href="https://ernestobits.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://example.org/posts/hello-world/</link>
-      <pubDate>Thu, 31 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.org/posts/hello-world/</guid>
+      <title>Hello World</title>
+      <link>https://ernestobits.github.io/posts/hello-world/</link>
+      <pubDate>Fri, 01 Nov 2024 12:32:36 -0700</pubDate>
+      <guid>https://ernestobits.github.io/posts/hello-world/</guid>
       <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello World&lt;/h1&gt;</description>
     </item>
   </channel>

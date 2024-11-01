@@ -7,13 +7,15 @@ $ git submodule add https://github.com/yihui/hugo-xmin.git themes/xmin
 ## Git Commands
 $ git status
 $ git add .
-$ git commit -m "inital files"
+$ git commit -m "Add first post"
 
 ## Hugo Commands
 $ hugo server
 $ hugo
 
 ## Posts
-$ rm content/posts/hello-world.md
+
+$ hugo new posts/hello-world.md
 
 $ tree .
+- public/index.html
